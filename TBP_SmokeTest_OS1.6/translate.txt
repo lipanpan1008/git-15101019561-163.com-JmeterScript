@@ -1,0 +1,14 @@
+苹果翻译成英文怎么说	"translation":"apple",
+apple翻译成中文怎么说	"translation":"苹果"
+香蕉翻译成英文	"translation":"banana"
+banana的英语怎么说	"translation":"香蕉"
+苹果的英文是什么	"translation":"apple"
+芒果的英文怎么说	"translation":"Mango
+翻译我想你	"translation":"i miss you"
+我很开心翻译成英文怎么说	"translation":"I'm very happy
+生日快乐翻译成英文怎么说	"translation":"Happy birthday
+妈妈我很爱你翻译成英语怎么说	"translation":"Mom, I love you"
+我喜欢吃苹果、香蕉翻译成英文	"translation":"I like apples and bananas"
+我喜欢看动画片、动漫翻译成英语	"translation":"I like watching cartoons and cartoons"
+快乐每一天翻译成英文是什么	"translation":"Happy every day"
+希望爸妈每天幸福翻译成英文怎么说	"translation":"I hope my parents are happy every day"
